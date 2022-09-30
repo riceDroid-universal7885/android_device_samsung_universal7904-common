@@ -1,4 +1,5 @@
 COMMON_PATH := device/samsung/universal7904-common
+include device/samsung/m20lte-kernel/BoardConfigKernel.mk
 
 BOARD_VENDOR := samsung
 
